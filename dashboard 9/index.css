@@ -1,0 +1,387 @@
+.teachers-dashboard {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+  width: 362px;
+  height: 50.78px;
+}
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.teachers-dashboard-wrapper {
+  position: absolute;
+  top: 38.11px;
+  left: 783px;
+  width: 362px;
+  height: 50.78px;
+  font-size: 32.96px;
+  color: var(--color-white);
+}
+.home-page-child {
+  position: absolute;
+  top: 0;
+  left: 391px;
+  background: linear-gradient(135deg, #ce9ffc, #7367f0);
+  width: 1051px;
+  height: 1024px;
+}
+.blocks-1-icon,
+.home-page-inner {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  width: 392px;
+  height: 1024px;
+}
+.blocks-1-icon {
+  left: 0;
+  width: 71.38px;
+  height: 71.38px;
+  object-fit: cover;
+}
+.classroom {
+  position: absolute;
+  top: 16.61px;
+  left: 103.24px;
+  font-weight: 900;
+  display: inline-block;
+  width: 211.96px;
+  height: 19.6px;
+}
+.blocks-1-parent {
+  position: absolute;
+  top: 27px;
+  left: 35px;
+  width: 315.2px;
+  height: 71.38px;
+  font-size: 33.08px;
+  color: var(--color-white);
+}
+.student-list {
+  position: absolute;
+  top: 27px;
+  left: 847px;
+  font-weight: 500;
+  display: inline-block;
+  width: 187px;
+  height: 40px;
+}
+.iconsaxlinearlogoutcurve {
+  position: absolute;
+  top: 931px;
+  left: 58px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.log-out {
+  position: absolute;
+  top: 927px;
+  left: 105px;
+  font-size: 23.84px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 92.21px;
+  height: 29px;
+}
+.dashboard,
+.group-child,
+.rectangle-wrapper {
+  position: absolute;
+  left: 0;
+  width: 314.59px;
+  height: 62px;
+}
+.group-child {
+  top: 0;
+  border-radius: 24.11px;
+  background: linear-gradient(135deg, #3b2667, #bc78ec);
+}
+.dashboard,
+.rectangle-wrapper {
+  top: 150px;
+}
+.dashboard {
+  top: 0;
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 181px;
+  height: 39px;
+}
+.iconsaxlinearcategory {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.dashboard-parent {
+  position: absolute;
+  top: 0;
+  left: 42px;
+  width: 221px;
+  height: 39px;
+}
+.group-container,
+.messages {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 314.59px;
+  height: 212px;
+}
+.messages {
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 165px;
+  height: 39px;
+}
+.group-item {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.messages-parent,
+.quiz {
+  position: absolute;
+  top: 88px;
+  left: 42px;
+  width: 205px;
+  height: 39px;
+}
+.quiz {
+  top: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 224px;
+}
+.iconsaxlinearclipboardtext {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.materials,
+.quiz-parent {
+  position: absolute;
+  left: 42px;
+  height: 39px;
+}
+.quiz-parent {
+  top: 230px;
+  width: 266px;
+  cursor: pointer;
+}
+.materials {
+  top: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 165px;
+}
+.materials-parent,
+.settings-parent {
+  position: absolute;
+  left: 40px;
+  width: 207px;
+  height: 39px;
+}
+.materials-parent {
+  top: 303px;
+  cursor: pointer;
+}
+.settings-parent {
+  top: 371px;
+}
+.iconsaxlinearmessagequestion {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.iconsaxlinearmessagequestion-parent {
+  position: absolute;
+  top: 443px;
+  left: 40px;
+  width: 207px;
+  height: 39px;
+}
+.group-parent,
+.students-parent {
+  position: absolute;
+  top: 159px;
+  left: 42px;
+  width: 205px;
+  height: 39px;
+}
+.group-parent {
+  top: 188px;
+  left: 39px;
+  width: 314.59px;
+  height: 482px;
+  font-size: 32.06px;
+  color: var(--color-white);
+}
+.ellipse-icon {
+  position: absolute;
+  top: 74px;
+  left: 450px;
+  width: 153px;
+  height: 153px;
+}
+.iconsaxlinearprofile {
+  position: absolute;
+  top: 105px;
+  left: 482px;
+  width: 90px;
+  height: 90px;
+  overflow: hidden;
+}
+.arnav-shukla {
+  margin: 0;
+}
+.arnav-shukla-mathematics-container {
+  position: absolute;
+  top: 95px;
+  left: 638px;
+  font-weight: 500;
+  display: inline-block;
+  width: 303px;
+  height: 79.34px;
+}
+.home-page-child1,
+.line-div {
+  position: absolute;
+  top: 253.5px;
+  left: 449.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 935px;
+  height: 1px;
+}
+.home-page-child1 {
+  top: 618.5px;
+}
+.rank-34th {
+  position: absolute;
+  top: 112px;
+  left: 1261px;
+  font-weight: 500;
+  display: inline-block;
+  width: 70px;
+  height: 88px;
+}
+.sailing-club-presentation-1 {
+  position: absolute;
+  top: 297px;
+  left: 450px;
+  border-radius: var(--br-11xl);
+  width: 524px;
+  height: 282px;
+  object-fit: cover;
+}
+.no-of-quiz-container,
+.total-no-of-container {
+  position: absolute;
+  top: 356px;
+  left: 1017px;
+  font-weight: 500;
+  display: inline-block;
+  width: 352px;
+  height: 169px;
+}
+.total-no-of-container {
+  top: 759px;
+  left: 534px;
+}
+.donut-chart-presentation-1 {
+  position: absolute;
+  top: 685px;
+  left: 998px;
+  border-radius: var(--br-11xl);
+  width: 386px;
+  height: 290px;
+  object-fit: cover;
+}
+
+select{
+  position: relative; /* set the position to relative */
+  top: -30px; /* move the element 50 pixels down from its normal position */
+  left: -50px;
+  border-radius: 19px;
+  background-color: #d9d9d9;
+  width: 288px;
+  height: 60px;
+  font-size: 1.7rem;
+}
+
+.iconsaxlineararrowdown2 {
+  position: absolute;
+  top: 698px;
+  left: 774px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.quiz-2,
+.summary {
+  position: absolute;
+  top: 698px;
+  left: 575px;
+  font-size: 18.26px;
+  font-weight: 500;
+  display: inline-block;
+  width: 176px;
+  height: 23.39px;
+}
+.summary {
+  top: 624px;
+  left: 486px;
+  font-size: 24.29px;
+  width: 133px;
+  height: 37.24px;
+}
+.home-page {
+  position: relative;
+  background: linear-gradient(
+    135deg,
+    #08000e 10.21%,
+    #08000e 10.21%,
+    #000 23.75%,
+    #500188
+  );
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: 27.06px;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

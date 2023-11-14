@@ -1,0 +1,345 @@
+.teachers-dashboard {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+  width: 362px;
+  height: 50.78px;
+}
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.teachers-dashboard-wrapper {
+  position: absolute;
+  top: 38.11px;
+  left: 783px;
+  width: 362px;
+  height: 50.78px;
+  font-size: 32.96px;
+}
+.home-page-child {
+  position: absolute;
+  top: 0;
+  left: 391px;
+  background: linear-gradient(135deg, #ce9ffc, #7367f0);
+  width: 1051px;
+  height: 1024px;
+}
+.blocks-1-icon,
+.home-page-item {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  width: 392px;
+  height: 1024px;
+}
+.blocks-1-icon {
+  left: 0;
+  width: 71.38px;
+  height: 71.38px;
+  object-fit: cover;
+}
+.classroom {
+  position: absolute;
+  top: 16.61px;
+  left: 103.24px;
+  font-weight: 900;
+  display: inline-block;
+  width: 211.96px;
+  height: 19.6px;
+}
+.blocks-1-parent,
+.quiz {
+  position: absolute;
+  top: 27px;
+  left: 35px;
+  width: 315.2px;
+  height: 71.38px;
+  font-size: 33.08px;
+}
+.quiz {
+  top: 29px;
+  left: 882px;
+  font-size: 46px;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 119px;
+  height: 68px;
+}
+.iconsaxlinearlogoutcurve {
+  position: absolute;
+  top: 931px;
+  left: 58px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.log-out {
+  position: absolute;
+  top: 927px;
+  left: 105px;
+  font-size: 23.84px;
+  font-weight: 500;
+  display: inline-block;
+  width: 92.21px;
+  height: 29px;
+}
+.dashboard,
+.group-child,
+.rectangle-wrapper {
+  position: absolute;
+  left: 0;
+  width: 314.59px;
+  height: 62px;
+}
+.group-child {
+  top: 0;
+  border-radius: 24.11px;
+  background: linear-gradient(135deg, #3b2667, #bc78ec);
+}
+.dashboard,
+.rectangle-wrapper {
+  top: 225px;
+}
+.dashboard {
+  top: 0;
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 181px;
+  height: 39px;
+}
+.iconsaxlinearcategory {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.dashboard-parent {
+  position: absolute;
+  top: 0;
+  left: 49px;
+  width: 221px;
+  height: 39px;
+}
+.group-container,
+.messages {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 314.59px;
+  height: 287px;
+}
+.messages {
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 165px;
+  height: 39px;
+}
+.group-item {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.messages-parent,
+.quiz1 {
+  position: absolute;
+  top: 88px;
+  left: 49px;
+  width: 205px;
+  height: 39px;
+}
+.quiz1 {
+  top: 0;
+  left: 42px;
+  font-weight: 500;
+  display: inline-block;
+  width: 224px;
+}
+.iconsaxlinearclipboardtext {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.materials,
+.quiz-parent {
+  position: absolute;
+  top: 230px;
+  left: 49px;
+  width: 266px;
+  height: 39px;
+}
+.materials {
+  top: 0;
+  left: 42px;
+  font-weight: 500;
+  display: inline-block;
+  width: 165px;
+}
+.materials-parent,
+.settings-parent {
+  position: absolute;
+  left: 47px;
+  width: 207px;
+  height: 39px;
+}
+.materials-parent {
+  top: 303px;
+  cursor: pointer;
+}
+.settings-parent {
+  top: 371px;
+}
+.iconsaxlinearmessagequestion {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.iconsaxlinearmessagequestion-parent {
+  position: absolute;
+  top: 443px;
+  left: 47px;
+  width: 207px;
+  height: 39px;
+}
+.group-parent,
+.students-parent {
+  position: absolute;
+  top: 159px;
+  left: 49px;
+  width: 205px;
+  height: 39px;
+}
+.group-parent {
+  top: 188px;
+  left: 32px;
+  width: 315px;
+  height: 482px;
+  font-size: 32.06px;
+}
+.iconsaxlinearaddcircle {
+  position: absolute;
+  top: 165px;
+  left: 1342px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.schedule-quiz {
+  position: absolute;
+  top: 154px;
+  left: 483px;
+  font-size: 35.9px;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 263px;
+  height: 46.82px;
+}
+.home-page-inner {
+  position: absolute;
+  top: 220.5px;
+  left: 459.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 935px;
+  height: 1px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 48.25px;
+  background-color: var(--color-gray);
+  width: 320px;
+  height: 376px;
+}
+.chemistry {
+  position: absolute;
+  top: 25.4px;
+  left: 73.65px;
+  font-weight: 500;
+}
+.time-1-pm {
+  margin: 0;
+}
+.class-2me1-students-container {
+  position: absolute;
+  top: 94px;
+  left: 28px;
+  font-weight: 500;
+  display: inline-block;
+  width: 278px;
+  height: 158px;
+}
+.rectangle-group,
+.rectangle-parent {
+  position: absolute;
+  top: 268px;
+  left: 455px;
+  width: 320px;
+  height: 376px;
+}
+.rectangle-group {
+  top: 269px;
+  left: 882px;
+}
+.home-page-child1,
+.line-div {
+  position: absolute;
+  top: 346.5px;
+  left: 506.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 217.01px;
+  height: 1px;
+}
+.home-page-child1 {
+  left: 933.5px;
+}
+.home-page {
+  position: relative;
+  background: linear-gradient(
+    135deg,
+    #08000e 10.21%,
+    #08000e 10.21%,
+    #000 23.75%,
+    #500188
+  );
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: 34.36px;
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

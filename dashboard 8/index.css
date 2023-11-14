@@ -1,0 +1,633 @@
+.teachers-dashboard {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+  width: 362px;
+  height: 50.78px;
+}
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.teachers-dashboard-wrapper {
+  position: absolute;
+  top: 38.11px;
+  left: 783px;
+  width: 362px;
+  height: 50.78px;
+  font-size: 32.96px;
+  color: var(--color-white);
+}
+.student-leaderboard-child {
+  position: absolute;
+  top: 0;
+  left: 389px;
+  background: linear-gradient(135deg, #ce9ffc, #7367f0);
+  width: 1051px;
+  height: 1236px;
+}
+.blocks-1-icon,
+.student-leaderboard-item {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  width: 392px;
+  height: 1024px;
+}
+.blocks-1-icon {
+  left: 0;
+  width: 71.38px;
+  height: 71.38px;
+  object-fit: cover;
+}
+.classroom {
+  position: absolute;
+  top: 16.61px;
+  left: 103.24px;
+  font-weight: 900;
+  display: inline-block;
+  width: 211.96px;
+  height: 19.6px;
+}
+.blocks-1-parent {
+  position: absolute;
+  top: 27px;
+  left: 35px;
+  width: 315.2px;
+  height: 71.38px;
+  font-size: 33.08px;
+  color: var(--color-white);
+}
+.student-leaderboard-inner {
+  position: absolute;
+  top: 110px;
+  left: 435px;
+  width: 153px;
+  height: 153px;
+}
+.iconsaxlinearprofile {
+  position: absolute;
+  top: 147px;
+  left: 467px;
+  width: 90px;
+  height: 90px;
+  overflow: hidden;
+}
+.arnav-shukla {
+  margin: 0;
+}
+.arnav-shukla-arnav123gmailco-container,
+.classroom1,
+.students-leaderboard {
+  position: absolute;
+  top: 154px;
+  left: 634px;
+  font-weight: 500;
+  display: inline-block;
+  width: 303px;
+  height: 79.34px;
+}
+.classroom1,
+.students-leaderboard {
+  top: 301px;
+  left: 463px;
+  width: 149px;
+  height: 39px;
+}
+.students-leaderboard {
+  top: 27px;
+  left: 746px;
+  width: 334px;
+  height: 40px;
+}
+.line-div {
+  position: absolute;
+  top: 291.5px;
+  left: 447.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 935px;
+  height: 1px;
+}
+.iconsaxlinearaddcircle,
+.iconsaxlinearlogoutcurve {
+  position: absolute;
+  top: 306px;
+  left: 1320px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.iconsaxlinearlogoutcurve {
+  top: 931px;
+  left: 58px;
+  width: 24px;
+  height: 24px;
+}
+.log-out {
+  position: absolute;
+  top: 927px;
+  left: 105px;
+  font-size: 23.84px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 92.21px;
+  height: 29px;
+}
+.dashboard,
+.group-child,
+.rectangle-wrapper {
+  position: absolute;
+  left: 0;
+  width: 314.59px;
+  height: 62px;
+}
+.group-child {
+  top: 0;
+  border-radius: 24.11px;
+  background: linear-gradient(135deg, #3b2667, #bc78ec);
+}
+.dashboard,
+.rectangle-wrapper {
+  top: 75px;
+}
+.dashboard {
+  top: 0;
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 181px;
+  height: 39px;
+}
+.iconsaxlinearcategory {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.dashboard-parent {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  width: 221px;
+  height: 39px;
+}
+.group-container,
+.queries {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 314.59px;
+  height: 137px;
+}
+.queries {
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 165px;
+  height: 39px;
+}
+.group-item {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.practice,
+.queries-parent {
+  position: absolute;
+  top: 290px;
+  left: 32px;
+  width: 205px;
+  height: 39px;
+}
+.practice {
+  top: 0;
+  left: 42px;
+  font-weight: 500;
+  display: inline-block;
+  width: 224px;
+}
+.iconsaxlinearclipboardtext {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.practice-parent,
+.quiz {
+  position: absolute;
+  height: 39px;
+}
+.practice-parent {
+  top: 152px;
+  left: 34px;
+  width: 266px;
+  cursor: pointer;
+}
+.quiz {
+  top: 0;
+  left: 42px;
+  font-weight: 500;
+  display: inline-block;
+  width: 165px;
+}
+.quiz-parent,
+.settings-parent {
+  position: absolute;
+  top: 221px;
+  left: 32px;
+  width: 207px;
+  height: 39px;
+}
+.settings-parent {
+  top: 359px;
+  left: 34px;
+}
+.iconsaxlinearmessagequestion {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.iconsaxlinearmessagequestion-parent,
+.leaderboard {
+  position: absolute;
+  top: 428px;
+  left: 37px;
+  width: 207px;
+  height: 39px;
+}
+.leaderboard {
+  top: 0;
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 240px;
+}
+.group-parent,
+.leaderboard-parent {
+  position: absolute;
+  top: 83px;
+  left: 32px;
+  width: 280px;
+  height: 39px;
+}
+.group-parent {
+  top: 191px;
+  left: 21px;
+  width: 314.59px;
+  height: 467px;
+  font-size: 32.06px;
+  color: var(--color-white);
+}
+.rectangle-div {
+  position: absolute;
+  top: 387px;
+  left: 435px;
+  border-radius: 19px;
+  background-color: var(--color-gainsboro);
+  width: 218px;
+  height: 60px;
+}
+.rectangle-div2 {
+  position: absolute;
+  top: 387px;
+  left: 1077px;
+  border-radius: 19px;
+  background-color: var(--color-gainsboro);
+  width: 218px;
+  height: 60px;
+}
+.iconsaxlineararrowdown2 {
+  position: absolute;
+  top: 406px;
+  left: 681px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.searchbox input{
+  width: 250px;
+  height: 36px;
+}
+.mathematics-2me1 {
+  position: absolute;
+  top: 404px;
+  padding-left: 10px;
+  left: 451px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 176px;
+  height: 23.39px;
+}
+.student-leaderboard-child1 {
+  position: absolute;
+  top: 400px;
+  left: 1077px;
+  text-align: center;
+  
+  padding-left: 10px;
+  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 176px;
+  height: 23.39px;
+}
+.iconsaxlinearsearchnormal1 {
+  position: absolute;
+  top: 403px;
+  left: 801px;
+  width: 34px;
+  height: 32px;
+  overflow: hidden;
+}
+.student-leaderboard-child2 {
+  position: absolute;
+  top: 394.5px;
+  left: 848.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 44px;
+}
+.seach-for-students {
+  position: absolute;
+  top: 406px;
+  left: 874px;
+  font-size: 18.26px;
+  font-weight: 500;
+  color: #4e4e4e;
+  display: inline-block;
+  width: 472px;
+  height: 35px;
+}
+.group-inner {
+  position: absolute;
+  top: 72.39px;
+  left: 0;
+  border-radius: 35px;
+  background-color: var(--color-gainsboro);
+  width: 960px;
+  height: 673.61px;
+}
+.lowest-first {
+  position: absolute;
+  top: 27.15px;
+  left: 41px;
+  font-weight: 500;
+  display: inline-block;
+  width: 159px;
+  height: 31.17px;
+}
+.iconsaxlinearfilter,
+.vector-icon {
+  position: absolute;
+  top: 0;
+  left: 865px;
+  width: 40px;
+  height: 40.22px;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 4.71%;
+  width: 3.19%;
+  top: 3.1%;
+  right: 5.66%;
+  bottom: 92.19%;
+  left: 91.15%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.ruhani-choudhary-59 {
+  position: absolute;
+  display: flex;
+  justify-content:space-around;
+  top: 160.81px;
+  left: 68px;
+  font-weight: 500;
+  font-size: 1.2rem;
+  display: inline-block;
+  width: 870px;
+  height: 38.2px;
+  cursor: pointer;
+  align-items: center;
+}
+.ruhani{
+  float: left;
+  align-items: center;
+}
+.r59{
+  float:right;
+  margin-right: 25px;
+  align-items: center;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.komal-dua-38,
+.name-rank,
+.sk-sayan-10,
+.umar-shaikh-2 {
+  position: absolute;
+  top: 236.21px;
+  left: 68px;
+  font-weight: 500;
+  font-size: 1.2rem;
+  display: inline-block;
+  width: 870px;
+  height: 38.2px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.komal-dua-38,
+.name-rank,
+.sk-sayan-10 {
+  top: 301.62px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.name-rank,
+.sk-sayan-10 {
+  top: 377.02px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.name-rank {
+  top: 452.43px;
+}
+.div1,
+.div2,
+.div3,
+.name-rank {
+  top: 527.83px;
+}
+.div2,
+.div3,
+.name-rank {
+  top: 603.23px;
+}
+.div3,
+.name-rank {
+  top: 678.64px;
+}
+.name-rank {
+  top: 97.52px;
+}
+.group-child1,
+.group-child2,
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  position: absolute;
+  top: 135.23px;
+  left: 24.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 914px;
+  height: 1px;
+}
+.group-child2,
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 211.64px;
+}
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 289.05px;
+}
+.group-child4,
+.group-child5,
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 356.41px;
+  left: 22.5px;
+}
+.group-child5,
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 429.81px;
+  left: 23.5px;
+}
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 501.19px;
+  left: 22.5px;
+}
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 580.62px;
+  left: 24.5px;
+}
+.group-child8,
+.group-child9 {
+  top: 656.02px;
+}
+.group-child9 {
+  top: 737.46px;
+  left: 19.5px;
+}
+.rectangle-parent {
+  top: 0;
+  left: 0;
+}
+.group-div,
+.group-wrapper,
+.rank-34th,
+.rectangle-parent {
+  position: absolute;
+  width: 960px;
+  height: 746px;
+}
+.group-wrapper {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.group-div,
+.rank-34th {
+  top: 440px;
+  left: 424px;
+}
+.rank-34th {
+  top: 164px;
+  left: 1265px;
+  font-weight: 2.4rem;
+  display: inline-block;
+  width: 70px;
+  height: 88px;
+}
+.student-leaderboard {
+  position: relative;
+  background: linear-gradient(
+    135deg,
+    #08000e 10.21%,
+    #08000e 10.21%,
+    #000 23.75%,
+    #500188
+  );
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: 27.06px;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

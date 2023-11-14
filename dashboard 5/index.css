@@ -1,0 +1,454 @@
+.teachers-dashboard {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+  width: 362px;
+  height: 50.78px;
+}
+.teachers-dashboard-wrapper {
+  position: absolute;
+  top: 38.11px;
+  left: 783px;
+  width: 362px;
+  height: 50.78px;
+  font-size: 32.96px;
+  color: var(--color-white);
+}
+.home-page-child {
+  position: absolute;
+  top: 0;
+  left: 389px;
+  background: linear-gradient(135deg, #ce9ffc, #7367f0);
+  width: 1051px;
+  height: 1430px;
+}
+.home-page-item {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  width: 392px;
+  height: 1024px;
+}
+.sailing-club-presentation-1 {
+  position: absolute;
+  top: 143px;
+  left: 431px;
+  border-radius: 45px;
+  width: 967px;
+  height: 488px;
+  object-fit: cover;
+}
+.blocks-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.38px;
+  height: 71.38px;
+  object-fit: cover;
+}
+.classroom {
+  position: absolute;
+  top: 16.61px;
+  left: 103.24px;
+  font-weight: 900;
+  display: inline-block;
+  width: 211.96px;
+  height: 19.6px;
+}
+.blocks-1-parent {
+  position: absolute;
+  top: 27px;
+  left: 35px;
+  width: 315.2px;
+  height: 71.38px;
+  font-size: 33.08px;
+  color: var(--color-white);
+}
+.mathematics {
+  position: absolute;
+  top: 27px;
+  left: 821px;
+  font-weight: 500;
+  display: inline-block;
+  width: 187px;
+  height: 40px;
+}
+.iconsaxlinearlogoutcurve {
+  position: absolute;
+  top: 931px;
+  left: 58px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.class-2me1-students,
+.log-out {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.log-out {
+  top: 927px;
+  left: 105px;
+  font-size: 23.84px;
+  color: var(--color-white);
+  width: 92.21px;
+  height: 29px;
+}
+.class-2me1-students {
+  top: 104px;
+  left: 472px;
+  width: 887px;
+  height: 39px;
+}
+.home-page-inner {
+  position: absolute;
+  top: 715px;
+  left: 438px;
+  border-radius: 35px;
+  background-color: #d9d9d9;
+  width: 960px;
+  height: 670px;
+}
+.lowest-first {
+  position: absolute;
+  top: 670px;
+  left: 479px;
+  font-weight: 500;
+  display: inline-block;
+  width: 159px;
+  height: 31px;
+}
+.iconsaxlinearfilter,
+.vector-icon {
+  position: absolute;
+  top: 643px;
+  left: 1303px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 3.42%;
+  width: 2.13%;
+  top: 65.04%;
+  right: 6.69%;
+  bottom: 31.54%;
+  left: 81.18%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.komal-dua-8,
+.name-marks,
+.ruhani-choudhary-9,
+.sk-sayan-10,
+.umar-shaikh-2 {
+  display: flex;
+  position: absolute;
+  top: 793px;
+  left: 506px;
+  font-weight: 500;
+  display: inline-block;
+  width: 870px;
+  height: 38px;
+}
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration:underline;
+}
+.ruhani{
+  float: left;
+}
+.r9{
+  float: right;
+  margin-right: 50px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.komal-dua-8,
+.name-marks,
+.sk-sayan-10,
+.umar-shaikh-2 {
+  top: 868px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.komal-dua-8,
+.name-marks,
+.sk-sayan-10 {
+  top: 943px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.name-marks,
+.sk-sayan-10 {
+  top: 1018px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.name-marks {
+  top: 1093px;
+}
+.div1,
+.div2,
+.div3,
+.name-marks {
+  top: 1168px;
+}
+.div2,
+.div3,
+.name-marks {
+  top: 1243px;
+}
+.div3,
+.name-marks {
+  top: 1318px;
+}
+.name-marks {
+  top: 740px;
+}
+.home-page-child1,
+.home-page-child2,
+.line-div {
+  position: absolute;
+  top: 777.5px;
+  left: 462.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 914px;
+  height: 1px;
+}
+.home-page-child1,
+.home-page-child2 {
+  top: 853.5px;
+}
+.home-page-child2 {
+  top: 930.5px;
+}
+.home-page-child3,
+.home-page-child4,
+.home-page-child5,
+.home-page-child6,
+.home-page-child7,
+.home-page-child8 {
+  position: absolute;
+  top: 997.5px;
+  left: 460.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 914px;
+  height: 1px;
+}
+.home-page-child4,
+.home-page-child5,
+.home-page-child6,
+.home-page-child7,
+.home-page-child8 {
+  top: 1070.5px;
+  left: 461.5px;
+}
+.home-page-child5,
+.home-page-child6,
+.home-page-child7,
+.home-page-child8 {
+  top: 1141.5px;
+  left: 460.5px;
+}
+.home-page-child6,
+.home-page-child7,
+.home-page-child8 {
+  top: 1220.5px;
+  left: 462.5px;
+}
+.home-page-child7,
+.home-page-child8 {
+  top: 1295.5px;
+}
+.home-page-child8 {
+  top: 1376.5px;
+  left: 457.5px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 24.11px;
+  background: linear-gradient(135deg, #3b2667, #bc78ec);
+  width: 314.59px;
+  height: 62px;
+}
+.dashboard {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 181px;
+  height: 39px;
+}
+.iconsaxlinearcategory {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.dashboard-parent {
+  position: absolute;
+  top: 9px;
+  left: 41px;
+  width: 221px;
+  height: 39px;
+}
+.group-container,
+.messages {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 314.59px;
+  height: 62px;
+}
+.messages {
+  left: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 165px;
+  height: 39px;
+}
+.group-item {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.messages-parent,
+.quiz {
+  position: absolute;
+  top: 97px;
+  left: 41px;
+  width: 205px;
+  height: 39px;
+}
+.quiz {
+  top: 0;
+  left: 42px;
+  font-weight: 500;
+  display: inline-block;
+  width: 224px;
+}
+.iconsaxlinearclipboardtext {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.materials,
+.quiz-parent {
+  position: absolute;
+  height: 39px;
+}
+.quiz-parent {
+  top: 239px;
+  left: 41px;
+  width: 266px;
+  cursor: pointer;
+}
+.materials {
+  top: 0;
+  left: 42px;
+  font-weight: 500;
+  display: inline-block;
+  width: 165px;
+}
+.materials-parent,
+.settings-parent {
+  position: absolute;
+  top: 312px;
+  left: 39px;
+  width: 207px;
+  height: 39px;
+}
+.settings-parent {
+  top: 380px;
+}
+.iconsaxlinearmessagequestion {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.iconsaxlinearmessagequestion-parent {
+  position: absolute;
+  top: 452px;
+  left: 39px;
+  width: 207px;
+  height: 39px;
+}
+.group-parent,
+.students-parent {
+  position: absolute;
+  top: 168px;
+  left: 41px;
+  width: 205px;
+  height: 39px;
+}
+.group-parent {
+  top: 179px;
+  left: 40px;
+  width: 314.59px;
+  height: 491px;
+  font-size: 32.06px;
+  color: var(--color-white);
+}
+.home-page {
+  position: relative;
+  background: linear-gradient(
+    135deg,
+    #08000e 10.21%,
+    #08000e 10.21%,
+    #000 23.75%,
+    #500188
+  );
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: 27.06px;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
